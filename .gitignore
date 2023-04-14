@@ -12,6 +12,7 @@
 *.vscode
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+*.tmp
 
 # Mono auto generated files
 mono_crash.*
