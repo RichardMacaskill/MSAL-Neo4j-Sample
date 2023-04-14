@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "oXfrUV3lUjubMMgnaGBCY8TsXomVJwekrO8A6q+yQJwEuraoIkTDmqWg8pBaMBEucvwaqJA9twzZuafwM2WZFA==",
+  "success": true,
+  "projectFilePath": "/Users/cas/Dev/MSAL-Neo4j-Sample/MSAL-Neo4j-Sample.csproj",
+  "expectedPackageFiles": [
+    "/Users/cas/.nuget/packages/microsoft.extensions.configuration/3.1.2/microsoft.extensions.configuration.3.1.2.nupkg.sha512",
+    "/Users/cas/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.2/microsoft.extensions.configuration.abstractions.3.1.2.nupkg.sha512",
+    "/Users/cas/.nuget/packages/microsoft.extensions.configuration.binder/3.1.2/microsoft.extensions.configuration.binder.3.1.2.nupkg.sha512",
+    "/Users/cas/.nuget/packages/microsoft.extensions.configuration.fileextensions/3.1.2/microsoft.extensions.configuration.fileextensions.3.1.2.nupkg.sha512",
+    "/Users/cas/.nuget/packages/microsoft.extensions.configuration.json/3.1.2/microsoft.extensions.configuration.json.3.1.2.nupkg.sha512",
+    "/Users/cas/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.2/microsoft.extensions.fileproviders.abstractions.3.1.2.nupkg.sha512",
+    "/Users/cas/.nuget/packages/microsoft.extensions.fileproviders.physical/3.1.2/microsoft.extensions.fileproviders.physical.3.1.2.nupkg.sha512",
+    "/Users/cas/.nuget/packages/microsoft.extensions.filesystemglobbing/3.1.2/microsoft.extensions.filesystemglobbing.3.1.2.nupkg.sha512",
+    "/Users/cas/.nuget/packages/microsoft.extensions.primitives/3.1.2/microsoft.extensions.primitives.3.1.2.nupkg.sha512",
+    "/Users/cas/.nuget/packages/microsoft.identity.client/4.52.0/microsoft.identity.client.4.52.0.nupkg.sha512",
+    "/Users/cas/.nuget/packages/microsoft.identitymodel.abstractions/6.22.0/microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512"
+  ],
+  "logs": []
+}
