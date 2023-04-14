@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oXfrUV3lUjubMMgnaGBCY8TsXomVJwekrO8A6q+yQJwEuraoIkTDmqWg8pBaMBEucvwaqJA9twzZuafwM2WZFA==",
+  "dgSpecHash": "rqs65zL2p+OUX9hCfELRdKyxiLkfoxaBobL8uj00HsZdKtol6eP/r2U0Z2us4+E9mweH6DZGqpMdWwYtzAchcg==",
   "success": true,
   "projectFilePath": "/Users/cas/Dev/MSAL-Neo4j-Sample/MSAL-Neo4j-Sample.csproj",
   "expectedPackageFiles": [
+    "/Users/cas/.nuget/packages/microsoft.bcl.asyncinterfaces/5.0.0/microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "/Users/cas/.nuget/packages/microsoft.extensions.configuration/3.1.2/microsoft.extensions.configuration.3.1.2.nupkg.sha512",
     "/Users/cas/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.2/microsoft.extensions.configuration.abstractions.3.1.2.nupkg.sha512",
     "/Users/cas/.nuget/packages/microsoft.extensions.configuration.binder/3.1.2/microsoft.extensions.configuration.binder.3.1.2.nupkg.sha512",
@@ -14,7 +15,9 @@
     "/Users/cas/.nuget/packages/microsoft.extensions.filesystemglobbing/3.1.2/microsoft.extensions.filesystemglobbing.3.1.2.nupkg.sha512",
     "/Users/cas/.nuget/packages/microsoft.extensions.primitives/3.1.2/microsoft.extensions.primitives.3.1.2.nupkg.sha512",
     "/Users/cas/.nuget/packages/microsoft.identity.client/4.52.0/microsoft.identity.client.4.52.0.nupkg.sha512",
-    "/Users/cas/.nuget/packages/microsoft.identitymodel.abstractions/6.22.0/microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512"
+    "/Users/cas/.nuget/packages/microsoft.identitymodel.abstractions/6.22.0/microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",
+    "/Users/cas/.nuget/packages/neo4j.driver/5.5.0/neo4j.driver.5.5.0.nupkg.sha512",
+    "/Users/cas/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

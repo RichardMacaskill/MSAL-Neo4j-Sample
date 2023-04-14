@@ -64,6 +64,10 @@
             "Microsoft.Identity.Client": {
               "target": "Package",
               "version": "[4.52.0, )"
+            },
+            "neo4j.driver": {
+              "target": "Package",
+              "version": "[5.5.0, )"
             }
           },
           "imports": [

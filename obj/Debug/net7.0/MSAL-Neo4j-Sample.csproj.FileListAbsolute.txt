@@ -25,3 +25,5 @@
 /Users/cas/Dev/MSAL-Neo4j-Sample/obj/Debug/net7.0/MSAL-Neo4j-Sample.pdb
 /Users/cas/Dev/MSAL-Neo4j-Sample/obj/Debug/net7.0/MSAL-Neo4j-Sample.genruntimeconfig.cache
 /Users/cas/Dev/MSAL-Neo4j-Sample/obj/Debug/net7.0/ref/MSAL-Neo4j-Sample.dll
+/Users/cas/Dev/MSAL-Neo4j-Sample/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/cas/Dev/MSAL-Neo4j-Sample/bin/Debug/net7.0/Neo4j.Driver.dll
