@@ -42,7 +42,7 @@ namespace MSALNeo4jSample
             appConfiguration = configuration
                 .Get<PublicClientApplicationOptions>();
 
-            // We intend to obtain a token for Graph for the following scopes (permissions)
+            // We intend to obtain a token for Neo4j for the following scopes (permissions)
             string[] scopes = new[] { string.Concat(appConfiguration.ClientId, "/.default") };
 
             Neo4j_URI = configuration["Neo4jUri"];
